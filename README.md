@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saif Rahman</h1>
-<h3 align="center">I am not a Frontend Engineer or Full Stack Engineer, I am a collection of all of it.</h3>
+<h3 align="center">A Computer Science Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/saifrahman78" target="blank"><img src="https://img.shields.io/twitter/follow/saifrahman78?logo=twitter&style=for-the-badge" alt="saifrahman78" /></a> </p>
 
-- Life and death **the means to die**
-- 
+#### _Theory will only take you so far_ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saifrahman78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifrahman78" height="30" width="40" /></a>
