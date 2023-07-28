@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saif Rahman</h1>
 <h3 align="center">A Computer Science Engineer</h3>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifrahmn" alt="saifrahmn" /></a> </p>
 <p align="left"> <a href="https://twitter.com/saifrahman78" target="blank"><img src="https://img.shields.io/twitter/follow/saifrahman78?logo=twitter&style=for-the-badge" alt="saifrahman78" /></a> </p>
 
 #### _Theory will only take you so far_ 
