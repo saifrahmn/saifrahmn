@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saif Rahman</h1>
 <h3 align="center">A Computer Science Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/saifrahman78" target="blank"><img src="https://img.shields.io/twitter/follow/saifrahman78?logo=twitter&style=for-the-badge" alt="saifrahman78" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saifrahman78" target="blank"><img src="https://img.shields.io/twitter/follow/saif_rahmn?logo=twitter&style=for-the-badge" alt="saif_rahmn" /></a> </p>
 
 #### _Theory will only take you so far_ 
 <h3 align="left">Connect with me:</h3>
