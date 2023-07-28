@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/saifrahman78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifrahman78" height="30" width="40" /></a>
 </p>
-<h3> Github Trophies</h3>
+<h3> Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifrahmn" alt="saifrahmn" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
